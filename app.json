@@ -1,0 +1,26 @@
+{
+  "id": "0155cf54-8c69-496b-bea1-bdd0fecd2b0b",
+  "name": "Game Library 1.0",
+  "publisher": "waldo.be",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": 
+    {
+      "from": 50100,
+      "to": 50149
+    },
+  
+  "runtime": "2.2",
+  "features": ["TranslationFile"],
+  "showMyCode": true
+}
